@@ -156,14 +156,3 @@ The system includes five subsystems:
 ![Figure 18: Order history page, GUI](images/figure18.png)
 ![Figure 21: Administration-side inventory management page, GUI](images/figure21.png)
 ![Figure 22: Administration-side order management page, GUI](images/figure22.png)
-
-## Project Overview
-
-### Coding Assignments
-- **Lead Programmer & LLM Integration**: Reuben
-- **Database Management and Backend Developer**: Lucas
-- **GUI Development**: Rhiannon
-- **Testing & Final Integration**: Ben, Jack, David, Eric
-
-### Timeline
-![Figure 23: Overall project timeline](images/figure23.png)
