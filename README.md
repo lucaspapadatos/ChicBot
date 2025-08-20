@@ -1,6 +1,4 @@
-# System Design Document
-
-**Group 8**: Rhiannon Lau, Eric Jiang, Reuben Nagel, Lucas Papadatos, David Park, Ben Shram, Jack Switzer
+# ChicBot: System Design Document
 
 ## Introduction
 
