@@ -148,21 +148,14 @@ The system includes five subsystems:
 ![Figure 7: ChicBot, class diagram](images/figure7.png)
 
 ## GUI Screenshots
-- Home Page: ![Figure 8: Home page, GUI](images/figure8.png)
-- Login Page: ![Figure 9: Login page, GUI](images/figure9.png)
-- Registration Page: ![Figure 10: Registration page, GUI](images/figure10.png)
-- ChicBot Interface: ![Figure 11: Chick’s interface and sample response, GUI](images/figure11.png)
-- Name Update Page: ![Figure 12: Name update page, GUI](images/figure12.png)
-- Password Update Page: ![Figure 13: Password update page, GUI](images/figure13.png)
-- Shop Page: ![Figure 14: Shop page, GUI](images/figure14.png)
-- Cart Page: ![Figure 15: Cart page, GUI](images/figure15.png)
-- Address Update Page: ![Figure 16: Address update page, GUI](images/figure16.png)
-- Payment Update Page: ![Figure 17: Payment update page, GUI](images/figure17.png)
-- Order History Page: ![Figure 18: Order history page, GUI](images/figure18.png)
-- Admin Name Update Page: ![Figure 19: Administration-side name update page, GUI](images/figure19.png)
-- Admin Password Update Page: ![Figure 20: Administration-side password update page, GUI](images/figure20.png)
-- Admin Inventory Management Page: ![Figure 21: Administration-side inventory management page, GUI](images/figure21.png)
-- Admin Order Management Page: ![Figure 22: Administration-side order management page, GUI](images/figure22.png)
+![Figure 8: Home page, GUI](images/figure8.png)
+![Figure 9: Login page, GUI](images/figure9.png)
+![Figure 11: Chick’s interface and sample response, GUI](images/figure11.png)
+![Figure 14: Shop page, GUI](images/figure14.png)
+![Figure 15: Cart page, GUI](images/figure15.png)
+![Figure 18: Order history page, GUI](images/figure18.png)
+![Figure 21: Administration-side inventory management page, GUI](images/figure21.png)
+![Figure 22: Administration-side order management page, GUI](images/figure22.png)
 
 ## Project Overview
 
